@@ -62,7 +62,7 @@ and (orientation: landscape) {
 
 }
 
-@media  (min-width:1024px) {
+@media  (min-width:1026px) {
 	.terms-button{
 	bottom:0px;
 	width: 180px;
